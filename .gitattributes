@@ -1,2 +1,2 @@
 *	export-ignore
-README.md	text
+README.md	-export-ignore
